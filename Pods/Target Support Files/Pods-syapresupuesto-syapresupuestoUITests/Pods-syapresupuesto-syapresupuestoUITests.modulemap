@@ -1,0 +1,6 @@
+framework module Pods_syapresupuesto_syapresupuestoUITests {
+  umbrella header "Pods-syapresupuesto-syapresupuestoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
